@@ -1,6 +1,6 @@
 ## Xiaomi Firmware Packages For Mi MIX 2S (polaris)
 
-#### Downloads: [![DownloadSF](https://img.shields.io/badge/Download-SourceForge-orange.svg)](https://sourceforge.net/projects/yshalsager/files/Stable) [![DownloadAFH](https://img.shields.io/badge/Download-AndroidFileHost-brightgreen.svg)](https://www.androidfilehost.com/?w=files&flid=268046)
+#### Downloads: [![Download](https://img.shields.io/badge/Downloads-Here-orange.svg)](https://xiaomifirmwareupdater.github.io/#weekly)
 
 | ID | MIUI Name | Device Name | Codename |
 | --- | --- | --- | --- |
